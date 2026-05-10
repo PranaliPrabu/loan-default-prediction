@@ -79,7 +79,3 @@ Feature importance analysis
 
 Pranali P
 AIML Engineer | Machine Learning Enthusiast
-
-👩‍💻 Author
-Pranali P
-AIML Engineer | Machine Learning Enthusi
